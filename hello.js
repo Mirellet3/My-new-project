@@ -1,1 +1,1 @@
-console.log('My first project with Git')
+console.log('now i know to use git haha')
